@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a [project](https://github.com/mrkowalski/readmypdf) that aims to make written content more accessible by turning it into an AI-assisted speech.
+🔭 As of 03/2024 I am working on a [project](https://github.com/mrkowalski/readmypdf) that aims to make written content more accessible by turning it into an AI-assisted speech.
 
 <!--
 - 🌱 I’m currently learning ...
