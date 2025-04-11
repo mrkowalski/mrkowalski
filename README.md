@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 As of 08/2024 I am working on a [project](https://github.com/mrkowalski/aivoices) that aims to make written content more accessible by turning it into an AI-assisted speech.
+🔭 As of 04/2025 I am working on a [project](https://github.com/mrkowalski/voice_agents) that aims to create intelligent voice anents accessible via phone.
 
 <!--
 - 🌱 I’m currently learning ...
