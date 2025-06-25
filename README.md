@@ -2,6 +2,9 @@
 
 🔭 As of 07/2025 I am working on a [project](https://github.com/mrkowalski/voice-agents-prototype) that aims to make creation of intelligent voice agents easy and accessible.
 
+- 💬 Ask me about AI voice bots and AI Agents in Polish.
+- 👯 I’m looking to collaborate on all the above.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marcinkowalski/)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
