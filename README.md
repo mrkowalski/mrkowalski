@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 As of 04/2025 I am working on a [project](https://github.com/mrkowalski/voice_agents) that aims to make creation of intelligent voice anents easy and accessible.
+🔭 As of 04/2025 I am working on a [project](https://github.com/mrkowalski/voice_agents) that aims to make creation of intelligent voice agents easy and accessible.
 
 <!--
 - 🌱 I’m currently learning ...
