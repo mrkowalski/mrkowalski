@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 As of 11/2025 I am working on a private [project](https://github.com/mrkowalski/voice-agents-prototype) that aims to make creation of intelligent voice agents easy and accessible for Polish businesses.
+🔭 As of 09/2026 I am working on a https://sprzedajskutecznie.pl
 
 - 💬 Ask me about AI voice bots and AI Agents in Polish.
 - 👯 I’m looking to collaborate on all the above.
