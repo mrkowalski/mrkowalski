@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 As of 09/2026 I am working on a https://sprzedajskutecznie.pl
+🔭 As of 09/2026 I am working on https://sprzedajskutecznie.pl
 
 - 💬 Ask me about AI voice bots and AI Agents in Polish.
 - 👯 I’m looking to collaborate on all the above.
