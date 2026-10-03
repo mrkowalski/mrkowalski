@@ -3,8 +3,10 @@
 🔭 As of 09/2026 I am working on https://sprzedajskutecznie.pl
 
 - 💬 Ask me about AI voice bots and AI Agents in Polish.
-- 👯 I’m looking to collaborate on all the above.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marcinkowalski/)
+- Public repos that I use daily to run https://sprzedajskutecznie.pl
+  - [MCP web scraper in a container](https://github.com/mrkowalski/headed-playwright-mcp)
+  - [Super-safe AI sandbox](https://github.com/mrkowalski/ai-sandbox)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
